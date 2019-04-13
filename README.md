@@ -12,10 +12,9 @@ Assignment 4 = BayesNets2,
 Assignment 5 = Classification
 
 Note: Assignment solutions are with seperate folders and include Readme.txt
-To run the program, just simply replace the *.py files from assign....folders into assignment directory.
+To run the program, just simply replace the *.py files from assign....337 folders into assignment directory.
 
-
-Professor = Pooyan Fazli
+SFSU Professor = Pooyan Fazli
 http://pooyan.perlab.info/index.html
 
 Main Sources: http://ai.berkeley.edu/home.html
