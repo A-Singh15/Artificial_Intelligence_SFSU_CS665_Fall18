@@ -11,6 +11,8 @@ Assignment 3 = Reinforcement
 Assignment 4 = BayesNets2
 Assignment 5 = Classification
 
+Note: Assignment solutions are with seperate folders and include Readme.txt. 
+
 
 Professor = Pooyan Fazli
 http://pooyan.perlab.info/index.html
