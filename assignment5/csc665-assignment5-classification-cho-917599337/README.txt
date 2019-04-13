@@ -24,6 +24,6 @@ For question 5, this question is very similar to the question 1 , within two dif
 For question 6, as stated in the hints, we use the format <feature name> : <feature value> for the feature vector. We first get successor of the state and get a list of food for that successor state. Then, we iterate through the food and convert the coordinates of the food to a string and store that for <feature name> and calculate the inverse of ManhattanDistance and set that as <feature value>.
 
 
-I discuss the idea and implementation of this assignment with Naylin Min SID:917101684. 
+I discuss the idea and implementation of this assignment with Naylin Min. 
 The Total time I spent for this project is more than 4 days. It took time for me to understand how the functions we are to used worked. The materials are quite a bit challenging however I enjoyed searching new things especially the Bayes Nets which is essential/ fundamental theory for machine learning. 
 
