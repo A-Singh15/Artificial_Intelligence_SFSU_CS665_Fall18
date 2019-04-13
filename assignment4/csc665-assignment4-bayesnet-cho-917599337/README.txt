@@ -26,6 +26,6 @@ For question 7, to find the most portable position of food house, we need to cal
 For question 8a, To get value of perfect information, assign those left and right houses by getting joint distribution of inference procedure and compute rushing of left and right expected value. 
 For question 8b, we use the method called getExplorationProbsAndOutcomes of the form probability and do the formula of expectedValue += prob * max(self.computeEnterValues(explorationEvidence, enterEliminationOrder)) and return the expectedValue
 
-I discuss the idea and implementation of this assignment with Naylin Min SID:917101684. 
+I discuss the idea and implementation of this assignment with Naylin Min. 
 The Total time I spent for this project is more than 4 days. It took time for me to understand how the functions we are to used worked. The materials are quite a bit challenging however I enjoyed searching new things especially the Bayes Nets which is essential/ fundamental theory for machine learning. 
 
