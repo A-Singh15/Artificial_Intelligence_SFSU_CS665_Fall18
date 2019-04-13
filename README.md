@@ -11,7 +11,7 @@ Assignment 3 = Reinforcement,
 Assignment 4 = BayesNets2,
 Assignment 5 = Classification
 
-Note: Assignment solutions are with seperate folders and include Readme.txt
+Note: Assignment solutions are with seperate folders and include Readme.txt.
 To run the program, just simply replace the *.py files from assign....337 folders into assignment directory.
 
 SFSU Professor = Pooyan Fazli
